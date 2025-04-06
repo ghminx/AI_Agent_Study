@@ -60,4 +60,4 @@ AI Agent 공부 노트
 
 ---
 
-![img](https://assets.weforum.org/editor/bUeTzLBRMGW-3J0robJ6gVH9ZCusP7KebufwSFGXVgA.png)
+![alt text](image-1.png)
